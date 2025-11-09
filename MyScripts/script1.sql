@@ -1,3 +1,2 @@
 Select  * 
-from employee
-LIMIT 10;
+from employee;
